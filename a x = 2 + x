@@ -1,0 +1,5 @@
+ax 48
+b = ax 4
+b
+print b
+
